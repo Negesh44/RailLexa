@@ -1,0 +1,7 @@
+{
+  "name": "RailTrack Live API",
+  "description": "Live Indian Railways train running status extraction API and developer dashboard based on open-source NTES and RailYatri scrapers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
